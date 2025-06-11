@@ -1,4 +1,4 @@
- MovieMate: A Collaborative Filtering-based Movie Recommendation System
+MovieMate: A Collaborative Filtering-based Movie Recommendation System
 
 Overview
 
@@ -38,3 +38,4 @@ MovieMate is licensed under the MIT License, allowing for free use, modification
 Acknowledgments
 
 - *MovieLens Dataset*: This project uses the MovieLens dataset, which is a popular dataset for movie recommendation systems.
+
